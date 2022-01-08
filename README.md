@@ -11,6 +11,7 @@ I have a degree in philosophy, passionate about mathematics and programming, and
 * Practicar python 🐍
 * Esribir artículos filosóficos 🤓
 
+[My Exercism](https://exercism.org/profiles/mao2047)
 
 <!--
 **mao2047/mao2047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
